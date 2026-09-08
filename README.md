@@ -134,9 +134,6 @@ O diagrama ER apresenta a estrutura e os relacionamentos entre as principais tab
 Este projeto pode ser implementado utilizando:
 
 * MySQL
-* PostgreSQL
-* SQL
-* Banco de dados relacional
 
 ## Projeto
 
